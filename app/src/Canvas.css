@@ -1,0 +1,9 @@
+.Canvas-container {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 0;
+    margin: 5vh 2vw;
+    background-color: white;
+    border: 1px solid black;
+}
